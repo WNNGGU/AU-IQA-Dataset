@@ -22,3 +22,5 @@ Each image has been enhanced by multiple state-of-the-art models and manually ra
 
 You can download the full dataset here:  
 **[Download AI-UGC-IQA Dataset](https://drive.google.com/file/d/1La4aP0ZLZdCehe_KZu3TCsAgLV_C-U6V/view?usp=sharing)**  
+##  Supplementary Material
+The file named ACMMM_2025_Dataset_SUPP.pdf is supplementary material of this dataset.
